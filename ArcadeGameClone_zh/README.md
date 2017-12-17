@@ -1,7 +1,12 @@
 
-前端纳米学位街机游戏克隆项目
+项目来源：前端纳米学位街机游戏克隆项目
 ===============================
-
-学生应该用这个[评审标准](https://review.udacity.com/#!/rubrics/499/view))来自我检查自己提交的代码。 确认自己写的函数要是**面向对象的** -  要么是类函数（就像函数 Player 和 Enemy）要么是类的原型链上的函数比如 Enemy.prototype.checkCollisions ， 在类函数里面或者类的原型链函数里面适当的使用关键词 'this' 来引用调用该函数的对象实例。最后保证你的**readme.md**文件要写明关于如何运行和如何玩你的街机游戏的指引。
-
-关于如何开始这个项目的更详细的指导，可以查阅这份[指南](https://gdgdocs.org/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true)。
+第一版完成的任务如下：(verision 1.0)
+1、玩家的出现(The player appears in the page)
+2、甲虫（敌人）的出现(The bug(enemy) appears in the page)
+3、玩家可以根据方向键，移动(The player can move by using keyboard)
+4、甲虫的速度可以调节(control the speed when a bug appears)
+5、甲虫可以重现多只(A number of bugs show)
+6、甲虫和玩家相碰撞出现提示(when a bug eats player,show the tips)
+7、玩家成功过河完成了游戏(when player move to the water,that's mean he or she wins, show the tips)
+8、重新开始游戏(reset the game)
